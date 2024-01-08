@@ -1,0 +1,11 @@
+Oppgave 3: Teorispørsmål
+
+
+3b) Grunnen til at det er fordel å bruke liste fremfor ordbok til denne type oppgave er først og framst måten teksten
+    eller musikk filen er oppsettet på. Den er loddrett som gjør det mer praktisk å velge liste for å så kun trenge å splitte opp
+    ";" mellom tittelen og artisten. Det gir mening å tenke først at ordbok kunne ha fungert for å ha kanskje artisten som nøkkel og 
+    tittelen som nøkkelverdier. Lister holder orden på rekkefølgen, mens ordbok kun forholder seg til hver nøkkel verdier.
+
+3c) Fordelen med å ikke ha filnavnen som parameter i kontruktøren er fordi at den kjøres hvergang et objekt blir introdusert. Ved å bruke en metode vil man kune importere
+    filen senere, og ikke bare gir metode flere muligheter til å kunne fullføre oppgaver senere som å lese inn flere
+    tekstfiler og kombinere flere sanglister.

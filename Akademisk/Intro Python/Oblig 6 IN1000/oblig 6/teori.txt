@@ -1,0 +1,7 @@
+Innkaspling er det å hinder at man kan bruke tilstanden til en objekt fra objekter fra andre klasser.
+Dette er lurt å ha for å først ha orden på programme og fortelle f.eks videre til andre som skla forsette med koden å «ikke ta på denne koden» eller gjør noe med den.
+ 
+Grensesnitt til en klasse er metodene som gjør oppgavene som ønskes, der hvor implementasjonen er videre arbeidet av hva den konkret skal gjøre og evt returnere. 
+Her blir det da lagd både (insta)variabler og funksjonene den skal gjøre.
+
+Instandmetoder har self parametere og henter inn verdier fra objektene, men det vanlige metodene kun knyttes til klasser.
