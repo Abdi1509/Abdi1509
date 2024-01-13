@@ -1,0 +1,18 @@
+class Celle:
+   # Konstruktør
+    def __init__(self):
+        pass
+
+    # Endre status
+    def settDoed(self):
+        pass
+
+    def settLevende(self):
+        pass
+
+    # Hente status
+    def erLevende(self):
+        pass
+
+    def hentStatusTegn(self):
+        passS
